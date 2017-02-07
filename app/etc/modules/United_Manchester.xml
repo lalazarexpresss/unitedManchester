@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<United_Manchester>
+			<active>true</active>
+			<codePool>local</codePool>
+		</United_Manchester>
+	</modules>
+</config>
